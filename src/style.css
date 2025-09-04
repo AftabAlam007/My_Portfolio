@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html {
   --section-background-color: linear-gradient(
     to bottom left,
@@ -155,8 +159,8 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 7em !important;
+  width: 9em !important;
 }
 
 .navbar-nav .nav-link {
