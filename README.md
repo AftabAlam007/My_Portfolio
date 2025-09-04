@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Spring Boot + React Projects**
 - 🌱 I’m learning **Microservices, Docker, AWS**
-- 👨‍💻 All of my projects are available at [LeetCode](https://github.com/AftabAlam007)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AftabAlam007)
 - 📫 Reach me at **aftabsisai@gmail.com**
 - ⚡ Fun fact: *I love solving coding challenges and building scalable apps*
 
